@@ -7,11 +7,17 @@
 
 <!-- Shields -->
 <p align="center">
-  <a href="https://github.com/tallguyjenks/fla.sh/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a>
-  <a href="https://img.shields.io/travis/tallguyjenks/fla.sh/master"><img src="https://img.shields.io/travis/tallguyjenks/fla.sh/master"></a>
-  <img src="https://img.shields.io/github/commit-activity/m/tallguyjenks/fla.sh">
-  <a href="https://github.com/tallguyjenks/fla.sh/graphs/contributors"><img src="https://img.shields.io/github/contributors/tallguyjenks/fla.sh"></a>
-  <img src="https://img.shields.io/github/v/release/tallguyjenks/fla.sh">
+  <a href="<REPO URL>/blob/master/LICENSE">
+    <img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/>
+  </a>
+  <a href="https://img.shields.io/travis/tallguyjenks/<REPO NAME>/master">
+    <img src="https://img.shields.io/travis/tallguyjenks/<REPO NAME>/master">
+  </a>
+  <img src="https://img.shields.io/github/commit-activity/m/tallguyjenks/<REPO NAME>">
+  <a href="<REPO URL>/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/tallguyjenks/<REPO NAME>">
+  </a>
+  <img src="https://img.shields.io/github/v/release/tallguyjenks/<REPO NAME>">
 </p>
 
 <!-- Description -->
