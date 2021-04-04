@@ -1,8 +1,10 @@
-# Repo
+# <REPO NAME>
+
+<!-- TODO For mass updates replace en-masse the <REPO URL> and <REPO NAME> snippets -->
 
 <!-- Header & Preview Image -->
 <h1 align="center">
-  <img src="/imgages/<++>" height="50%" width="50%">
+  <img src="/images/<++>" height="50%" width="50%">
 </h1>
 
 <!-- Shields -->
@@ -46,31 +48,31 @@
 
 ## Features
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ## Requirements
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ### Recommended
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ## Installation
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ### Users
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -78,7 +80,7 @@ See [Usage](#usage)
 
 ### Contributors
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -86,31 +88,31 @@ See [CONTRIBUTING](#contributing)
 
 ## Usage
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ### Example
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ## Documentation
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ## Resources
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
 ## Development
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -118,7 +120,7 @@ See [CONTRIBUTING](CONTRIBUTING.md)
 
 ### Security
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -126,7 +128,7 @@ See [SECURITY](SECURITY.md)
 
 ### Future
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -134,15 +136,15 @@ See [ROADMAP](ROADMAP.md)
 
 ### History
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
-See [CHANGELOG](CHANGELOG.md)
+See [RELEASES](<REPO URL>/releases)
 
 ### Community
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -150,7 +152,7 @@ See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
 ## Credits
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
@@ -158,7 +160,7 @@ See [AUTHORS](AUTHORS.md)
 
 ## License
 
-[Return To Top](#repo)
+[Return To Top](#table-of-contents)
 
 <++>
 
