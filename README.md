@@ -10,9 +10,6 @@
   <a href="<REPO URL>/blob/master/LICENSE">
     <img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/>
   </a>
-  <a href="https://img.shields.io/travis/tallguyjenks/<REPO NAME>/master">
-    <img src="https://img.shields.io/travis/tallguyjenks/<REPO NAME>/master">
-  </a>
   <img src="https://img.shields.io/github/commit-activity/m/tallguyjenks/<REPO NAME>">
   <a href="<REPO URL>/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/tallguyjenks/<REPO NAME>">
