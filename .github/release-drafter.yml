@@ -9,9 +9,12 @@ categories:
   - title: "🐛 Bug Fixes"
     labels:
       - "bug"
-  - title: "🔨 Maintenance"
+  - title: "🛠️ Maintenance"
     labels:
       - "maintenance"
+  - title: "📝️ Documentation"
+    labels:
+      - "documentation"
 version-resolver:
   major:
     labels:
