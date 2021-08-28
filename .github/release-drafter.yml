@@ -4,24 +4,20 @@ change-template: "- $TITLE by @$AUTHOR (#$NUMBER)"
 no-changes-template: "- No changes"
 categories:
   - title: "🚀 New Features"
-    labels:
-      - "enhancement"
+    labels: [ "enhancement" ]
   - title: "🐛 Bug Fixes"
-    labels:
-      - "bug"
-  - title: "🔨 Maintenance"
-    labels:
-      - "maintenance"
+    labels: [ "bug" ]
+  - title: "🛠️ Maintenance"
+    labels: [ "maintenance" ]
+  - title: "📖️ Documentation"
+    labels: [ "documentation" ]
 version-resolver:
   major:
-    labels:
-      - "major"
+    labels: [ "major" ]
   minor:
-    labels:
-      - "minor"
+    labels: [ "minor" ]
   patch:
-    labels:
-      - "patch"
+    labels: [ "patch" ]
   default: patch
 template: |
   $CHANGES
