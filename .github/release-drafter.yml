@@ -6,11 +6,22 @@ categories:
   - title: "🚀 New Features"
     labels: [ "enhancement" ]
   - title: "🐛 Bug Fixes"
+<<<<<<< HEAD
     labels: [ "bug" ]
   - title: "🛠️ Maintenance"
     labels: [ "maintenance" ]
   - title: "📖️ Documentation"
     labels: [ "documentation" ]
+=======
+    labels:
+      - "bug"
+  - title: "🛠️ Maintenance"
+    labels:
+      - "maintenance"
+  - title: "📝️ Documentation"
+    labels:
+      - "documentation"
+>>>>>>> 9bd17e14e980f24f62ec868613bffb49b6ed4dbb
 version-resolver:
   major:
     labels: [ "major" ]

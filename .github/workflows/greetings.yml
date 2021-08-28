@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9bd17e14e980f24f62ec868613bffb49b6ed4dbb
 name: Greetings
 on: [pull_request, issues]
 jobs:

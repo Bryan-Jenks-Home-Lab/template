@@ -2,7 +2,11 @@ name: Release Drafter
 on:
   push:
     branches:
+<<<<<<< HEAD
       - release
+=======
+      - master
+>>>>>>> 9bd17e14e980f24f62ec868613bffb49b6ed4dbb
 jobs:
   update_release_draft:
     runs-on: ubuntu-latest
