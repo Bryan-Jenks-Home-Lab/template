@@ -48,6 +48,6 @@ I'll try to be as responsive as possible in reviewing and accepting pull request
 
 I appreciate your contributions very much!
 
-[0]: https://github.com/tallguyjenks/<REPO NAME>/discussions
-[1]: https://github.com/tallguyjenks/<REPO NAME>/issues/new
-[2]: https://github.com/tallguyjenks/<REPO NAME>/compare
+[0]: https://github.com/<REPO NAME>/discussions
+[1]: https://github.com/<REPO NAME>/issues/new
+[2]: https://github.com/<REPO NAME>/compare

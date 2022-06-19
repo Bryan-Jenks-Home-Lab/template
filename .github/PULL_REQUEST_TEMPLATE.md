@@ -8,7 +8,7 @@ Create a pull request to help us improve. See [CONTRIBUTING](/CONTRIBUTING.md).
 
 ---
 
-- [ ] I have communicated my intent to create this pull request via repo [Discussions](https://github.com/tallguyjenks/PyRM/discussions) or [Issues](https://github.com/tallguyjenks/PyRM/issues) before undertaking this work
+- [ ] I have communicated my intent to create this pull request via repo [Discussions](https://github.com/<REPO NAME>/discussions) or [Issues](https://github.com/<REPO NAME>/issues) before undertaking this work
 - [ ] I have read [CONTRIBUTING](/CONTRIBUTING.md)
 - [ ] My commits are granular and descriptive
 - [ ] I have used [Emoji Log](https://github.com/ahmadawais/Emoji-Log) for my commit messages and pull request title

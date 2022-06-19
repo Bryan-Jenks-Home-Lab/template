@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🙏🏻 Support This Project
-    url: https://github.com/sponsors/tallguyjenks
+    url: https://github.com/sponsors/<GH USERNAME>
     about: Help support continued development on this project
   - name: 👨🏻‍💻 More about the maintainer
     url: https://www.bryanjenks.dev/

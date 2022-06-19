@@ -5,8 +5,7 @@
   ],
   "ignore": [
     "**/__snapshots__/**",
-    "**/.vscode/**",
-    "**/cycle-a-input-data.md"
+    "**/.vscode/**"
   ],
   "absolute": true
 }
