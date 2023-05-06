@@ -1,9 +1,9 @@
 name: 🐛️ Bug Report
 description: File a bug report
 title: "🐛️: "
-labels: ["🐛️ goal: fix", "🚦️ status: awaiting triage"]
-#assignees:
-#  - octocat
+labels: ["bug"]
+assignees:
+  - <GH USERNAME>
 body:
   - type: markdown
     attributes:
@@ -31,6 +31,7 @@ body:
     attributes:
       label: Version
       description: What version of our software are you running?
+      # FIXME need to put a list of the released version here
       options:
         - 0.0.1
         - 0.0.2
@@ -42,7 +43,7 @@ body:
     attributes:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell 
+      render: shell-script
   - type: checkboxes
     id: terms
     attributes:

@@ -44,5 +44,10 @@
     "MD045": true, // MD045/no-alt-text - Images should have alternate text (alt text)
     "MD046": { "style": "fenced" }, // MD046/code-block-style - Code block style
     "MD047": true, // MD047/single-trailing-newline - Files should end with a single newline character
-    "MD048": { "style": "backtick" } // MD048/code-fence-style - Code fence style
+    "MD048": { "style": "backtick" }, // MD048/code-fence-style - Code fence style
+    "MD049": { "style": "consistent" }, // MD049/emphasis-style - Emphasis style should be consistent
+    "MD050": { "style": "consistent" }, // MD050/strong-style - Strong style should be consistent
+    "MD051": true, // MD051/link-fragments - Link fragments should be valid
+    "MD052": true, // MD052/reference-links-images - Reference links and images should use a label that is defined
+    "MD053": { "ignored_definitions": ["//"] } // MD053/link-image-reference-definitions - Link and image reference definitions should be needed
 }

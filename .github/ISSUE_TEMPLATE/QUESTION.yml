@@ -1,9 +1,9 @@
 name: ❓️ Question
 description: Ask a general question about how to use the project
 title: "❓️: "
-labels: ["❓️ talk: question", "🕓️ talk: waiting for response", "🚦️ status: awaiting triage"]
-#assignees:
-#  - octocat
+labels: ["question"]
+assignees:
+  - <GH USERNAME>
 body:
   - type: markdown
     attributes:

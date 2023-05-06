@@ -1,9 +1,9 @@
 name: 📖️ Documentation
 description: File an issue regarding documentation
 title: "📖️: "
-labels: ["📖 documentation", "🚦️ status: awaiting triage"]
-#assignees:
-#  - octocat
+labels: ["documentation"]
+assignees:
+  - <GH USERNAME>
 body:
   - type: markdown
     attributes:

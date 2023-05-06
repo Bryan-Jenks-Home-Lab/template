@@ -4,7 +4,7 @@
 
 ---
 
-[Bryan Jenks](https://github.com/tallguyjenks) -- &lt;bryanjenks@protonmail.com&gt;
+[Bryan Jenks](https://github.com/tallguyjenks) -- [bryan@bryanjenks.dev](mainto:bryan@bryanjenks.dev);
 
 ---
 

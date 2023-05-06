@@ -6,14 +6,17 @@ categories:
   - title: "🚀 New Features"
     labels: [ "enhancement" ]
   - title: "🐛 Bug Fixes"
-    labels:
-      - "bug"
+    labels: [ "bug" ]
   - title: "🛠️ Maintenance"
-    labels:
-      - "maintenance"
+    labels: [ "maintenance" ]
   - title: "📝️ Documentation"
-    labels:
-      - "documentation"
+    labels: [ "documentation" ]
+  - title: "🤖️ Dependabot"
+    labels: [ "dependencies" ]
+  - title: "❓️ Answered Questions"
+    labels: [ "question" ]
+  # - title: ""
+  #   labels: [ "" ]
 version-resolver:
   major:
     labels: [ "major" ]

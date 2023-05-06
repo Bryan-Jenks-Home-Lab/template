@@ -1,9 +1,9 @@
 name: 📦 Feature Request
 description: Request A Feature
 title: "📦: "
-labels: ["✨️ goal: improve", "🚦️ status: awaiting triage"]
-#assignees:
-#  - octocat
+labels: ["enhancement"]
+assignees:
+  - <GH USERNAME>
 body:
   - type: markdown
     attributes:

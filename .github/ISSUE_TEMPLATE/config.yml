@@ -1,8 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: 🙏🏻 Support This Project
     url: https://github.com/sponsors/<GH USERNAME>
     about: Help support continued development on this project
   - name: 👨🏻‍💻 More about the maintainer
-    url: https://www.bryanjenks.dev/
-    about: get to know the maintainer of PyRM
+    url: <WEBSITE>
+    about: get to know the maintainer of <REPO NAME>

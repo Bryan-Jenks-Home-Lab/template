@@ -12,4 +12,4 @@ This project supports only the latest version with security updates. However, we
 
 ---
 
-Contact [Bryan Jenks](https://github.com/tallguyjenks) to report a security vulnerability. You will be thanked!
+Contact [Bryan Jenks](mailto:bryan@bryanjenks.dev) to report a security vulnerability. You will be thanked!

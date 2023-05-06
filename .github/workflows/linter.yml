@@ -16,9 +16,9 @@ name: Lint Code Base
 #############################
 on:
   push:
-    branches: [dev, prod, release]
+    branches: [dev, main, release]
   pull_request:
-    branches: [dev, prod, release]
+    branches: [dev, main, release]
 
 ###############
 # Set the Job #
@@ -59,7 +59,7 @@ jobs:
         uses: docker://ghcr.io/github/super-linter:slim-v4
         env:
           VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: prod
+          DEFAULT_BRANCH: main
           LOG_LEVEL: WARN
           FILTER_REGEX_EXCLUDE: '.*(\.github|\.vscode).*'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
