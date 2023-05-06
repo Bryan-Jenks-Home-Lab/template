@@ -4,7 +4,7 @@
 
 ---
 
-[Bryan Jenks](https://github.com/tallguyjenks) -- [bryan@bryanjenks.dev](mainto:bryan@bryanjenks.dev);
+[<YOUR NAME>](https://github.com/<GH USERAME>) -- [<EMAIL>](mainto:<EMAIL>);
 
 ---
 

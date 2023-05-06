@@ -6,6 +6,9 @@
    - `<REPO NAME>` this is the 2 part github url for the repo like `tallguyjenks/this_repo`
    - `<GH USERNAME>` this is your username on github
    - `<WEBSITE>` this is your personal website
+   - `<EMAIL>` Your contact email
+   - `<YOUR NAME>` your actual name if you're okay with having that on display
+   - `<LICENSE YEAR>` the portion of the license file (defaults to included [Apache 2.0](LICENSE) where you include the year)
 3. `funding.yml` is setup for me so if you want your stuff there edit it.
 4. When ready to begin run the setup bash script (COMING SOON)
 

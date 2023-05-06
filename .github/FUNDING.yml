@@ -1,8 +1,8 @@
 # These are supported funding model platforms
-github: tallguyjenks
-patreon: bryanjenks
+github: <GH USERAME>
+patreon: bryanjenks # FIXME change this if you have a patreon
 custom:
   [
-    "https://www.buymeacoffee.com/tallguyjenks",
-    "https://www.paypal.me/tallguyjenks",
+    "https://www.buymeacoffee.com/<GH USERAME>",
+    "https://www.paypal.me/<GH USERAME>",
   ]
