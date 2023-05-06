@@ -35,7 +35,8 @@ help:
 	@echo "🧪️${BLUE}make test${NC} \t\t- Runs the test suite"
 	@echo "🧹️${BLUE}make clean${NC} \t- Cleans up test artifacts"
 	@echo "🛠️ ${BLUE}make build${NC} \t- Builds the container"
-	@echo "🚀️${BLUE}make version${NC} \t- Bumps the version of the application"
+	@echo "🚀️${BLUE}make deploy${NC} \t- Deploys the container"
+	@echo "🔄️${BLUE}make update${NC} \t- Updates submodules"
 	@echo ""
 format:
 	@echo "\n🎨️ ${GREEN}Formatting Codebase${NC}\n"
@@ -76,7 +77,9 @@ build:
 		-v ${PROCESSED_PATH}:/data/processed \
 		bryan-jenks-home-lab/${APP_NAME}:${APP_VERSION}
 	@echo "\n🛠️ ${GREEN}Build Process Completed${NC}\n"
-version:
-	@echo "\n🚀️ ${GREEN}Bumping Application Version${NC}\n"
+deploy:
+	@echo "\n🚀️ ${GREEN}Beginning Deployment Process${NC}\n"
 	./common/version-bump.sh
-	@echo "\n🚀️ ${GREEN}Version Bump Completed${NC}\n"
+	@echo "\n🚀️ ${GREEN}Deployment Process Completed${NC}\n"
+update:
+	git submodule update --remote
