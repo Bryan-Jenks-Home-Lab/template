@@ -82,7 +82,7 @@ build:
 	@echo "\n🛠️ ${GREEN}Build Process Completed${NC}\n"
 deploy:
 	@echo "\n🚀️ ${GREEN}Beginning Deployment Process${NC}\n"
-	./common/version-bump.sh
+	./common/utilities/version-bump.sh
 	@echo "\n🚀️ ${GREEN}Deployment Process Completed${NC}\n"
 update:
 	git submodule update --remote
