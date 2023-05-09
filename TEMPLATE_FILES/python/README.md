@@ -1,9 +1,10 @@
-# USING THIS REPOSITORY
+# Using This Repository With Python
 
-If Python project and using Poetry then add this to the `pyproject.toml` file:
+1. Move all the files from `/TEMPLATE_FILES/python/*` to the root of the project
+1. `poetry init`
+1. If Python project and using Poetry then add this to the `pyproject.toml` file:
 
 ```toml
-
 [tool.black]
 line-length = 88
 include = '\.pyi?$'
@@ -61,3 +62,8 @@ color = true
 generate-badge = "img"
 badge-format = "svg"
 ```
+
+1. `python -m pip install python-dotenv pre-commit`
+1. `pre-commit install`
+1. `pre-commit autoupdate`
+1. To understand the makefile: `make help`
