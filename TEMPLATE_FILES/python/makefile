@@ -27,6 +27,7 @@ TARGET_TABLE=$(shell dotenv get TARGET_TABLE)
 WATCH_PATH=$(shell dotenv get WATCH_PATH)
 STAGING_PATH=$(shell dotenv get STAGING_PATH)
 PROCESSED_PATH=$(shell dotenv get PROCESSED_PATH)
+DEPLOYMENT_COMMAND=$(shell read choice)
 
 help:
 	@echo "\n📖️${GREEN}Help${NC}"
@@ -47,7 +48,9 @@ run:
 	poetry run python3 src/main.py
 test:
 	@echo "\n🧪️ ${GREEN}Running Test Suite${NC}\n"
-	poetry run python3 -m pytest --verbose
+	pre-commit install
+	pre-commit autoupdate
+	poetry run python3 -m pytest
 	@echo "\n🧪️ ${GREEN}Cleaning Up Test Suite Artifacts${NC}\n"
 	@$(MAKE) clean
 	@echo "\n🧪️ ${GREEN}Test Suite Execution Completed${NC}\n"
