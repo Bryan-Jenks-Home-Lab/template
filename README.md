@@ -1,22 +1,6 @@
-# USING THIS REPOSITORY
-
-1. Everything above the next H1 should be deleted when completed with this process
-2. Run a bulk text replacement for the following items:
-   - `<BANNER>` this is the banner image in this README
-   - `<REPO NAME>` this is the 2 part github url for the repo like `tallguyjenks/this_repo`
-   - `<GH USERNAME>` this is your username on github
-   - `<WEBSITE>` this is your personal website
-   - `<EMAIL>` Your contact email
-   - `<YOUR NAME>` your actual name if you're okay with having that on display
-   - `<LICENSE YEAR>` the portion of the license file (defaults to included [Apache 2.0](LICENSE) where you include the year)
-3. `funding.yml` is setup for me so if you want your stuff there edit it.
-4. When ready to begin run the setup bash script (COMING SOON)
-
-================================================
-
 # <REPO NAME>
 
-<!-- TODO For mass updates replace en-masse the <REPO URL> and <REPO NAME> snippets -->
+<!-- TODO to setup this template repo, please run the ./setup.sh script -->
 
 <!-- Header & Preview Image -->
 
